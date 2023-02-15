@@ -12,6 +12,7 @@ func multi(one: Int, by two: Int){
     print((one * two) + 2)
 }
 multi(one: 3, by: 1)
+//jj
 /*:
 [Previous](@previous)  |  page 5 of 6  |  [Next: App Exercise - Separating Functions](@next)
  */
